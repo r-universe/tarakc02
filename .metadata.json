@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ratelimitr",
+    "oncran": true
+  },
+  {
+    "package": "rmapzen",
+    "oncran": true
+  }
+]
