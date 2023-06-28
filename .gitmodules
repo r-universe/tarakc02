@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ratelimitr"]
 	path = ratelimitr
 	url = https://github.com/tarakc02/ratelimitr
-	shallow = true
-	registered = true
 [submodule "rmapzen"]
 	path = rmapzen
 	url = https://github.com/tarakc02/rmapzen
-	shallow = true
-	registered = true
